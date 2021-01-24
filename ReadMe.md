@@ -2,7 +2,7 @@ Car Turn Off Delay Relay Board
 ==============================
 
 IDK how many times chargers for mobiles and other devices that were connected to out classic cars lighter plugs have drained 
-the cars batteries to a point where is was impossible to start the car again (usual after the car had not been used for a few weeks).
+the cars batteries to a point where is was impossible to start the car again (usualy after the car had not been used for a few weeks).
 
 This board overcomes this problem by disconnecting the power supply to the lighter plug (or anything else) after a defineable period 
 (up to approx. 135minutes) after the cars iginition has been turned off. Like this it is still possible to charges mobiles and the like
