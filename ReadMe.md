@@ -24,7 +24,7 @@ Bascom and you can just use whatever tool you prefer to upload the firmware.
 The parts on the board are all simple, stanard components which should be readily available at almost every electronic parts store.
 The connectores are FASTON Automotive Connectors.
 
-!(DelayBoardPlan.png "Car Turn Of Delay Board")
+<img src="DelayBoardPlan.png"/>
 
 Installing the board
 --------------------
