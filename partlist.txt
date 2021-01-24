@@ -1,0 +1,23 @@
+Partlist
+
+Exported from CarDelayRelay.sch at 23.01.2021 15:21:43
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part          Value          Device        Package  Library          Sheet
+
+C1            1uF            CPOL-EUE1.8-4 E1,8-4   0_Standard-Parts 1
+CPOL-EUE1.8-4 10uF           CPOL-EUE1.8-4 E1,8-4   0_Standard-Parts 1
+D1            1N4004         1N4004        DO41-10  diode            1
+IC1           78L05Z         78L05Z        TO92     linear           1
+K2            4052           4052          F4052    Relay            1
+K3            TX2-12V        TX2-12V       TX2      Relay            1
+R1            10k            R-EU_0204/7   0204/7   0_Standard-Parts 1
+R2            4k7            R-EU_0207/2V  0207/2V  0_Standard-Parts 1
+R3            20k            R-TRIMM43P    RTRIM43P 0_Standard-Parts 1
+T1            BC547          BC547         TO92     transistor       1
+U$1           TINY138P3      TINY138P3     DIL08    0_avr            1
+X1                           SH5-3         SH5-3    con-rib          1
+X2                           SH5-2         SH5-2    con-rib          1
